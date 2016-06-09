@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 #added as per firehose guide
 gem 'rails_12factor', group: :production
 
+# simple form
+gem 'simple_form'
+
 # twitter bootstrap
 
 gem 'bootstrap-sass', '~> 3.3.5.1'
